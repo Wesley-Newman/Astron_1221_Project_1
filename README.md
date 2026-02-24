@@ -44,3 +44,5 @@ Prompt AI and define our tools as height in sky suite and percentage observed to
 User passes their desired object and either latitude/longitude/date/time/UTC offset, or telescope eyepiece setup information
 
 AI uses predefined functions to perform tasks asked by user and returns the given information as well as an image of the object they requested, as defined in the astronomical object class.
+#### **AI Usage**
+AI was used through out this project to help identify potential external functions that we could use for this project and to assist with debugging code.
